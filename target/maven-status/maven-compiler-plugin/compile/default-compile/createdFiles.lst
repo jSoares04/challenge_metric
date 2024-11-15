@@ -1,0 +1,6 @@
+com\example\challenge\controllers\ControllerRest.class
+com\example\challenge\ChallengeApplication.class
+com\example\challenge\domain\RollingMetrics.class
+com\example\challenge\ServletInitializer.class
+com\example\challenge\dto\AggregatedMetricsResponse.class
+com\example\challenge\dto\SpeedMetricsResponse.class

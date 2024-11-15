@@ -1,0 +1,9 @@
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\ChallengeApplication.java
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\domain\SpeedMeasurement.java
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\dto\AggregatedMetricsResponse.java
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\controllers\ControllerRest.java
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\dto\SpeedMetricsResponse.java
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\services\MetricsService.java
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\dto\MeasurementRequest.java
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\ServletInitializer.java
+C:\workspaces\challenge\challenge\src\main\java\com\example\challenge\domain\RollingMetrics.java
